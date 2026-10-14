@@ -1,0 +1,26 @@
+{
+  "customer": {
+    "applicationId": "com.wervexa.app",
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "minSdk": 24,
+    "minAndroid": "7.0",
+    "sizeBytes": 65965460,
+    "sha256": "38cea0b037bdf48b56677a935c16436cd91d574b91a61ddb80cf49b3a444cb58",
+    "builtAt": "2026-09-25T06:38:20.475Z",
+    "href": "/downloads/wervexa-customer.apk",
+    "icon": "/images/apps/wervexa-customer.png"
+  },
+  "worker": {
+    "applicationId": "com.wervexa.worker",
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "minSdk": 24,
+    "minAndroid": "7.0",
+    "sizeBytes": 64260717,
+    "sha256": "47e7c301a2f4f29045d58a45f5e9ef49e7c4aec125542155b7b172a5cfac7e4c",
+    "builtAt": "2026-09-25T06:52:10.007Z",
+    "href": "/downloads/wervexa-captain.apk",
+    "icon": "/images/apps/wervexa-captain.png"
+  }
+}
